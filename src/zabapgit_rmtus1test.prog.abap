@@ -4,4 +4,4 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ZABAPGIT_RMTUS1TEST.
-WRITE 'SANJEEV SHARMA CHAMARTHY'.
+WRITE 'SANJEEV SHARMA'.
